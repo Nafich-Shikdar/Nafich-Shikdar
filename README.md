@@ -1,65 +1,65 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f9d58&height=120&section=header&text=Nafich%20Shikdar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Code%20Nai,%20Para%20Nai!&fontSize=70&fontAlignY=35&desc=StackOverflow%20Theke%20Copy%20Kora%20Amar%20Pesha&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=0F9D58&center=true&vCenter=true&width=435&lines=Building+Digital+Products;Developing+E-commerce+Tools;Exploring+AI+%26+Automation;Always+Learning+New+Tech" alt="Typing SVG" />
-  </a>
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7XMjJKaf/giphy.gif" width="200" />
 </div>
 
-<br/>
+### <div align="center">🐸 About Me (Sotti Kotha)</div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=Nafich-Shikdar&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%" />
-  </a>
-</div>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center">🛠️ Tech Arsenal</h3>
-      <br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,bootstrap,tailwind,git,github,vscode,figma&perline=4&theme=dark" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center">📈 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nafich-Shikdar&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&title_color=0F9D58&icon_color=0F9D58" alt="Nafich's Stats" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nafich-Shikdar&theme=react&hide_border=true&background=0D1117&ring=0F9D58&fire=0F9D58&currStreakLabel=0F9D58" alt="Streak" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafich-Shikdar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0F9D58&langs_count=8&custom_title=Most%20Used%20Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/Nafich-Shikdar/Nafich-Shikdar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=100&section=footer"/>
+  
+  👋 **Hello Bondhura!** আমি নাফিস।
   <br/>
-  <a href="https://facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:contact@nafich.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  আমি একজন **Full Stack Developer** (যতক্ষণ কারেন্ট থাকে)।
+  <br/><br/>
+  
+  🔹 **My Coding Process:** `Ctrl+C` ➡️ `Ctrl+V` ➡️ `Error` ➡️ `Cry` ➡️ `Fix`.
+  <br/>
+  🔹 **Current Status:** কোড রান করছে না, কিন্তু কেন করছে না জানি না।
+  <br/>
+  🔹 **Favorite Tool:** ChatGPT (আমার আসল বস)।
+  <br/>
+  🔹 **Weakness:** বিরিয়ানি দিলে ফ্রিতে ওয়েবসাইট বানিয়ে দিতে পারি (শর্ত প্রযোজ্য)।
+
 </div>
+
+---
+
+### 🛠️ **My "Professional" Tech Stack**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Skill-Google%20Search-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Energy-Kachi%20Biryani-FF9900?style=for-the-badge&logo=foodpanda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OS-Windows%20Pirated-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Internet-Slow%20Speed-red?style=for-the-badge&logo=wifi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Brain-404%20Not%20Found-lightgrey?style=for-the-badge&logo=github&logoColor=black"/>
+</div>
+
+---
+
+### 📊 **Github Statistics (Jiboner Hishab)**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nafich-Shikdar&show_icons=true&theme=radical&hide_border=true&custom_title=Bugs%20Fixed%20vs%20Created" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafich-Shikdar&layout=compact&theme=radical&hide_border=true&custom_title=Languages%20I%20Hate" height="180"/>
+</div>
+
+<br/>
+
+### 🐛 **My Typical Day**
+
+```mermaid
+graph TD;
+    A[Wake Up] --> B{Current Ache?};
+    B -- No --> C[Ghumabo Abar];
+    B -- Yes --> D[PC On Kori];
+    D --> E[Facebook Scroll];
+    E --> F[Code Korte Boshlam];
+    F --> G[Bug Pailam];
+    G --> H[StackOverflow / ChatGPT];
+    H --> I[Fix Holo Na];
+    I --> J[PC Bondho Kore Dilam];
+    
